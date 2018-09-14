@@ -6,3 +6,7 @@
 	◦	Feel like vote wont matter eg. in a state like california (TRANSPARENCY) 
 	◦	Too hard to register (SCALABILITY) 
 	◦	You can change your vote 
+	Implement a range of valid adress with no connection to identity 
+	Once I registered that adress how do you protect being anonymous
+
+		
